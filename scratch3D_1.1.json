@@ -1,0 +1,8 @@
+{
+  "name": "Scratch.3D",
+  "id": "valeglow-3d-7ccc",
+  "version": "1.5.8",
+  "description": "外置叠加Canvas方案，基于Three.js的3D场景引擎。多模型角色系统（编号控制、克隆、删除）、五种几何体、X/Y/Z移动旋转、大小、颜色、导入GLTF、拖动旋转、MC风格鼠标锁定镜头、全屏。v1.5.8 克隆记录来源cloneOf，支持配套扩展（相对运动）的「本体和克隆体」范围。",
+  "author": "ValeGlow-BambooDew",
+  "javascript": "./extension.js"
+}
